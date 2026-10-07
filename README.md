@@ -55,7 +55,7 @@ Simple-Discord-Bot/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/Miaoumap24/Simple-Discord-Bot.git
+git clone https://github.com/Lixiod-Labs/Simple-Discord-Bot.git
 cd Simple-Discord-Bot
 ```
 
